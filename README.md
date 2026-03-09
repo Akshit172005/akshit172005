@@ -89,11 +89,11 @@ A vector-database powered semantic search system that retrieves relevant informa
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akshit172005&show_icons=true&theme=default"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit172005&layout=compact&theme=default"/>
 </p>
 
 ---
