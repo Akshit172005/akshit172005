@@ -30,7 +30,7 @@ Computer Science Student | Building AI-powered platforms and data-driven product
 • Technology + marketing integration  
 
 [*] Fun Fact  
-I combine **technology, marketing, and creativity** to build impactful digital experiences.
+I combine technology, marketing, and creativity to build impactful digital experiences.
 
 ---
 
