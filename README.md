@@ -75,13 +75,13 @@ Astrophysics Research & Blogging Intern – Astrophysicast (2022)
 
 ## Featured Projects
 
-SmartAdGuide  
+**SmartAdGuide**  
 AI-powered marketing assistant designed to help businesses create effective marketing strategies using AI insights.
 
-SilkRoad / Compass India  
+**SilkRoad / Compass India**  
 A platform that estimates the cost of opening stores or franchises in different Indian cities by analyzing rent, salaries, and operational expenses.
 
-AI Semantic Search System  
+**AI Semantic Search System**  
 A vector-database powered semantic search system that retrieves relevant information using AI embeddings.
 
 ---
@@ -89,11 +89,11 @@ A vector-database powered semantic search system that retrieves relevant informa
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Akshit172005&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akshit172005&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit172005&layout=compact&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit172005&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -101,7 +101,13 @@ A vector-database powered semantic search system that retrieves relevant informa
 ## Connect With Me
 
 LinkedIn  
-https://www.linkedin.com/in/aksg17
+https://www.linkedin.com/in/aksg17  
+
+Instagram  
+https://instagram.com/akshitx17_  
+
+Phone  
++91 9165370581
 
 ---
 
