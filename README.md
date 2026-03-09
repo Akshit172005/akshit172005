@@ -86,18 +86,6 @@ A vector-database powered semantic search system that retrieves relevant informa
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Akshit172005&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit172005&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## Connect With Me
 
 LinkedIn  
