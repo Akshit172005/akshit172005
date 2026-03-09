@@ -92,7 +92,7 @@ LinkedIn
 https://www.linkedin.com/in/aksg17  
 
 Instagram  
-https://instagram.com/akshitx17_ 
+https://www.instagram.com/akshitx17_?igsh=MXQ1ZnBwcnZtZnp0NQ==
 
 Phone  
 +91 9165370581
