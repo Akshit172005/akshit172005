@@ -1,18 +1,110 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>🔭 **Currently Working On:**  <br>Building AI-powered platforms like **SmartAdGuide** (AI Marketing Assistant) and **SilkRoad / Compass India**, a platform that estimates the cost of opening stores or franchises across Indian cities.<br><br>👯 **Looking to Collaborate On:**  <br>AI-based tools, data analytics projects, startup-focused platforms, and innovative web applications that solve real-world problems.<br><br>🤝 **Looking for Help With:**  <br>AI integrations, scalable backend architecture, and advanced data analytics implementations.<br><br>🌱 **Currently Learning:**  <br>Data Analytics, Machine Learning fundamentals, and building scalable AI-powered web applications.<br><br>💬 **Ask Me About:**  <br>Content marketing, startup research, social media growth strategies, and building impactful tech projects.<br><br>⚡ **Fun Fact:**  <br>I’m the **Content Head of an AR/VR Club**, a **Social Media Intern**, and I love combining **technology, marketing, and creativity** to build unique digital experiences.
+<h1 align="center">Akshit Gupta</h1>
+<h3 align="center">AI Builder | Data Analytics Enthusiast | Content Strategist</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshitx17_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aksg17) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Akshit Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshitgupta0505@gmail.com) 
-
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akshit172005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akshit172005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit172005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Computer Science Student | Building AI-powered platforms and data-driven products
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akshit172005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+[>] Currently Working On  
+• SmartAdGuide – AI-powered marketing assistant  
+• SilkRoad / Compass India – Platform for estimating business expansion costs across Indian cities  
+
+[+] Currently Learning  
+• Data Analytics  
+• Machine Learning fundamentals  
+• Building scalable AI-powered web applications  
+
+[~] Looking to Collaborate On  
+• AI tools and analytics platforms  
+• Startup-focused technology products  
+• Practical real-world problem solving projects  
+
+[?] Ask Me About  
+• Content marketing strategies  
+• Startup research  
+• AI project ideas  
+• Technology + marketing integration  
+
+[*] Fun Fact  
+I combine **technology, marketing, and creativity** to build impactful digital experiences.
+
+---
+
+## Technical Skills
+
+### Programming
+Python  
+C++  
+SQL  
+
+### Data & Analytics
+Apache Spark  
+Power BI  
+Microsoft Excel  
+
+### Tools & Platforms
+GitHub  
+SAP Build  
+Canva  
+
+### Interests
+Artificial Intelligence  
+Data Analytics  
+Digital Marketing  
+Startup Ecosystems  
+
+---
+
+## Experience
+
+Content Head – AltReality AR/VR Club  
+• Led content and promotions for AR/VR events  
+• Organized ParallaX – a 3D movie experience event for 250+ students  
+
+Social Media Intern – Growth Jet Media LLP  
+• Managed marketing campaigns and engagement strategies  
+• Created promotional and research-based marketing content  
+
+Astrophysics Research & Blogging Intern – Astrophysicast (2022)
+
+---
+
+## Featured Projects
+
+SmartAdGuide  
+AI-powered marketing assistant designed to help businesses create effective marketing strategies using AI insights.
+
+SilkRoad / Compass India  
+A platform that estimates the cost of opening stores or franchises in different Indian cities by analyzing rent, salaries, and operational expenses.
+
+AI Semantic Search System  
+A vector-database powered semantic search system that retrieves relevant information using AI embeddings.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default"/>
+</p>
+
+---
+
+## Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/aksg17
+
+---
+
+<p align="center">
+Consistently learning, building, and exploring new technologies.
+</p>
