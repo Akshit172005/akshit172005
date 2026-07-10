@@ -1,16 +1,12 @@
-\#
+# <h1 align="center">Hi 👋, I'm Akshit Gupta</h1>
 
-::: {align="center"}
-Hi 👋, I'm Akshit Gupta
-:::
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Analytics+%7C+AI+Enthusiast;Machine+Learning+Explorer;Building+Real-World+AI+Applications;Always+Learning+Something+New" />
+</p>
 
-::: {align="center"}
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Analytics+%7C+AI+Enthusiast;Machine+Learning+Explorer;Building+Real-World+AI+Applications;Always+Learning+Something+New" />`{=html}
-:::
+---
 
-------------------------------------------------------------------------
-
-``` text
+```text
                               akshit@github
 ╭──────────────────────────────────────────────────────────────────────╮
 │  █████╗ ██╗  ██╗███████╗██╗  ██╗██╗████████╗                        │
@@ -20,7 +16,7 @@ Hi 👋, I'm Akshit Gupta
 │ ██║  ██║██║  ██╗███████║██║  ██║██║   ██║                           │
 │ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝                           │
 ╰──────────────────────────────────────────────────────────────────────╯
-──────────────────────────────────────────────────────────────────────────────
+
 
 OS:...................... Windows 11 / Linux
 Role:.................... Data Analytics & AI Enthusiast
@@ -58,95 +54,59 @@ Contact:
 Email.................... akshitgupta0505@gmail.com
 GitHub................... github.com/Akshit172005
 LinkedIn................. Add Your LinkedIn
-
-Status: 🚀 Open to collaborations in AI, Data Analytics & ML.
 ```
 
-------------------------------------------------------------------------
+## 💻 Tech Stack
 
-# 💻 Tech Stack
-
-```{=html}
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,cpp,mysql,tensorflow,git,github,flask,linux,vscode&perline=9"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,tensorflow,git,github,flask,linux,vscode&perline=9"/>
 </p>
-```
 
-------------------------------------------------------------------------
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
+| Project | Description |
+|---------|-------------|
+| 🧠 **Khurakh** | AI-powered Medicine Verification System using Python, Flask & Scikit-Learn |
+| 🌍 **SilkRoad** | AI-powered Business Expansion Platform with Franchise Intelligence & Broker Connect |
+| 📈 **SmartAdGuide** | AI Marketing Recommendation Platform using Machine Learning & NLP |
 
-  -----------------------------------------------------------------------
-  Project                       Description
-  ----------------------------- -----------------------------------------
-  🧠 **Khurakh**                AI-powered Medicine Verification System
-                                using Python, Flask & Scikit-Learn
+## 📊 GitHub Stats
 
-  🌍 **SilkRoad**               AI-powered Business Expansion Platform
-                                with Franchise Intelligence & Broker
-                                Connect
-
-  📈 **SmartAdGuide**           AI Marketing Recommendation Platform
-                                using Machine Learning & NLP
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-# 📊 GitHub Stats
-
-```{=html}
 <p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshit172005&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit172005&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshit172005&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit172005&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=Akshit172005&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+  <img src="https://streak-stats.demolab.com?user=Akshit172005&theme=tokyonight&hide_border=true"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshit172005&theme=tokyo-night&hide_border=true"/>`{=html}
-```{=html}
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshit172005&theme=tokyo-night&hide_border=true"/>
 </p>
-```
 
-------------------------------------------------------------------------
+## 🏆 Certifications
 
-# 🏆 Certifications
+- IBM — SQL for Data Science
+- UIUC — Text Mining & Analytics
+- UC San Diego — Data Structures
+- University of Colorado Boulder — Dynamic Programming & Greedy Algorithms
 
--   IBM --- SQL for Data Science
--   UIUC --- Text Mining & Analytics
--   UC San Diego --- Data Structures
--   University of Colorado Boulder --- Dynamic Programming & Greedy
-    Algorithms
+## 📫 Connect
 
-------------------------------------------------------------------------
-
-# 📫 Connect
-
-```{=html}
 <p align="center">
-```
-`<a href="mailto:akshitgupta0505@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/Akshit172005">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
-`<a href="https://linkedin.com/in/YOUR-LINKEDIN">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
-```{=html}
+<a href="mailto:akshitgupta0505@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Akshit172005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 </p>
-```
 
-------------------------------------------------------------------------
+<div align="center">
 
-::: {align="center"}
-### "Turning data into insights and ideas into intelligent applications."
+### Turning data into insights and ideas into intelligent applications.
+
+⭐ If you like my work, consider starring my repositories!
+
+</div>
 
 ⭐ If you like my work, consider starring my repositories!
 :::
