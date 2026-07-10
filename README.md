@@ -1,104 +1,111 @@
-<h1 align="center">Akshit Gupta</h1>
-<h3 align="center">AI Builder | Data Analytics Enthusiast | Content Strategist</h3>
+```bash
+┌──(visitor㉿github)-[~/AkshitGupta]
+└─$ whoami
 
-<p align="center">
-Computer Science Student | Building AI-powered platforms and data-driven products
-</p>
+Name          : Akshit Gupta
+Role          : Data Analytics & AI Enthusiast
+Education     : B.Tech Computer Science Engineering
+University    : Bennett University
+Location      : India
 
----
+────────────────────────────────────────────────────────────
 
-## About Me
+🧠 Interests
 
-[>] Currently Working On  
-• SmartAdGuide – AI-powered marketing assistant  
-• SilkRoad / Compass India – Platform for estimating business expansion costs across Indian cities  
+├── Data Analytics
+├── Artificial Intelligence
+├── Machine Learning
+├── Business Intelligence
+├── GIS Data Processing
+├── Backend Development
+└── Open Source
 
-[+] Currently Learning  
-• Data Analytics  
-• Machine Learning fundamentals  
-• Building scalable AI-powered web applications  
+────────────────────────────────────────────────────────────
 
-[~] Looking to Collaborate On  
-• AI tools and analytics platforms  
-• Startup-focused technology products  
-• Practical real-world problem solving projects  
+💼 Experience
 
-[?] Ask Me About  
-• Content marketing strategies  
-• Startup research  
-• AI project ideas  
-• Technology + marketing integration  
+▸ GIS Data Analyst Intern @ ParkFacing App
+  ↳ Processed & validated 1,000+ GIS/property datasets
+  ↳ Spatial verification & GIS workflow automation
 
-[*] Fun Fact  
-I combine technology, marketing, and creativity to build impactful digital experiences.
+▸ Social Media & Data Intern @ Growth Jet Media LLP
+  ↳ Analyzed 10,000+ audience interactions
+  ↳ Worked with 10+ international clients
+  ↳ Built analytical reports for campaign optimization
 
----
+────────────────────────────────────────────────────────────
 
-## Technical Skills
+🚀 Featured Projects
 
-### Programming
-Python  
-C++  
-SQL  
+◉ Khurakh
+  ↳ AI-powered Medicine Verification System
+  ↳ Python • Flask • Pandas • Scikit-Learn
 
-### Data & Analytics
-Apache Spark  
-Power BI  
-Microsoft Excel  
+◉ SmartAdGuide
+  ↳ AI Marketing Recommendation Platform
+  ↳ Machine Learning • NLP
 
-### Tools & Platforms
-GitHub  
-SAP Build  
-Canva  
+◉ SilkRoad
+  ↳ AI Business Expansion Platform
+  ↳ Franchise Intelligence • Broker Connect
 
-### Interests
-Artificial Intelligence  
-Data Analytics  
-Digital Marketing  
-Startup Ecosystems  
+────────────────────────────────────────────────────────────
 
----
+🛠 Tech Stack
 
-## Experience
+Languages
+├── Python
+├── SQL
+├── C++
+└── MATLAB
 
-Content Head – AltReality AR/VR Club  
-• Led content and promotions for AR/VR events  
-• Organized ParallaX – a 3D movie experience event for 250+ students  
+Machine Learning
+├── Scikit-Learn
+├── TensorFlow
+└── NLP
 
-Social Media Intern – Growth Jet Media LLP  
-• Managed marketing campaigns and engagement strategies  
-• Created promotional and research-based marketing content  
+Analytics
+├── Pandas
+├── NumPy
+├── Power BI
+├── Excel
+└── Jupyter Notebook
 
-Astrophysics Research & Blogging Intern – Astrophysicast (2022)
+Tools
+├── Git
+├── GitHub
+├── Flask
+├── MySQL
+└── Canva Pro
 
----
+────────────────────────────────────────────────────────────
 
-## Featured Projects
+🏆 Achievements
 
-**SmartAdGuide**  
-AI-powered marketing assistant designed to help businesses create effective marketing strategies using AI insights.
+🏅 Top 30 Team • Hackaccino Hackathon
+🏅 Content Head • AltReality Club
+🏅 Student Representative • Microsoft Hackathon
 
-**SilkRoad / Compass India**  
-A platform that estimates the cost of opening stores or franchises in different Indian cities by analyzing rent, salaries, and operational expenses.
+────────────────────────────────────────────────────────────
 
-**AI Semantic Search System**  
-A vector-database powered semantic search system that retrieves relevant information using AI embeddings.
+📚 Currently Learning
 
----
+▸ Advanced Machine Learning
+▸ Data Engineering
+▸ System Design
+▸ Cloud Computing
+▸ Open Source Development
 
-## Connect With Me
+────────────────────────────────────────────────────────────
 
-LinkedIn  
-https://www.linkedin.com/in/aksg17  
+📫 Reach Me
 
-Instagram  
-https://www.instagram.com/akshitx17_?igsh=MXQ1ZnBwcnZtZnp0NQ==
+Email      : akshitgupta0505@gmail.com
+GitHub     : github.com/Akshit172005
+LinkedIn   : linkedin.com/in/your-linkedin
 
-Phone  
-+91 9165370581
+────────────────────────────────────────────────────────────
 
----
-
-<p align="center">
-Consistently learning, building, and exploring new technologies.
-</p>
+Status : 🚀 Open to collaborating on AI, Data Analytics &
+         Machine Learning projects.
+```
